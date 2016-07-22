@@ -17,5 +17,5 @@ Requires Tensor Toolbox, can be found at http://www.sandia.gov/~tgkolda/TensorTo
 
 # Comments and Suggestions
 
-Please feel free to contact Verma Sunny (sunnyverma(dot)iitd(at)gmail.com)
+Please feel free to contact Verma Sunny (sunnyverma(dot)iitd(at)gmail(dot)com)
 for any comments, bugs reports, and suggestions.

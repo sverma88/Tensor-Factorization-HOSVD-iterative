@@ -13,3 +13,9 @@ Requires Tensor Toolbox, can be found at http://www.sandia.gov/~tgkolda/TensorTo
  2. Rank_#            :   Rank of the core tensor required -- Line-10
  3. Max_iterations    :   Allowable Number of iterations for convergence -- Line-11
  4. Error_Threshold   :   Allowable Error Tolerance in decomposition -- Line-12
+
+
+# Comments and Suggestions
+
+Please feel free to contact Verma Sunny (sunnverma(dot)iitd(at)gmail.com)
+for any comments, bugs reports, and suggestions.
